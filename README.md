@@ -3,7 +3,7 @@ import Desenvolvedor from "Enzo Gilmar";
 class SobreMim extends Desenvolvedor {
   nome = "Enzo Gilmar Villca Nunez";
   area = "Instrutor e Desenvolvedor FullStack";
-  trabalho = "Estudante - Senai Têxtil Francisco Matarazzo "
+  estado = "Estudante - Senai Têxtil Francisco Matarazzo "
   contato = "enzonunez7788@gmail.com";
   }
 
